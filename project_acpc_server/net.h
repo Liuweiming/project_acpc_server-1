@@ -60,7 +60,7 @@ ssize_t getLine( ReadBuf *readBuf,
 		 char *line,
 		 int64_t timeoutMicros );
 
+} // namespace project_acpc_server
 
 #endif
 
-} // namespace project_acpc_server
